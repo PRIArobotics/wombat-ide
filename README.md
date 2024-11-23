@@ -22,4 +22,8 @@ This repo should serve as a space where tools and instructions for comfortable d
     - [list of "KIPR suite" libraries](https://github.com/kipr/KIPR-Development-Toolkit?tab=readme-ov-file#kipr-suite)
     - [docs tree](https://github.com/kipr/KIPR-Development-Toolkit/tree/master/Docs), including datasheets, schematics, manuals and a tutorial
   - [Wombat-Firmware](https://github.com/kipr/Wombat-Firmware) (last commit 3 years ago)
+- [Past GCER resources](https://www.kipr.org/gcer/about-gcer/gcer-resources) including papers
+- [toberocat's Botball guides](https://toberocat.github.io/libwallaby/): several how-tos by Tobias Madlberger (HTL St. Pölten)
+  - [Increasing Robot Accuracy](https://toberocat.github.io/libwallaby/increasing-robot-accuracy.html)
+  - [Setting up a external IDE](https://toberocat.github.io/libwallaby/setting-up-a-external-ide.html)
 - [F-WuTS / robo4you / HTL Wr. Neustadt Github](https://github.com/orgs/F-WuTS)
