@@ -26,4 +26,5 @@ This repo should serve as a space where tools and instructions for comfortable d
 - [toberocat's Botball guides](https://toberocat.github.io/libwallaby/): several how-tos by Tobias Madlberger (HTL St. Pölten)
   - [Increasing Robot Accuracy](https://toberocat.github.io/libwallaby/increasing-robot-accuracy.html)
   - [Setting up a external IDE](https://toberocat.github.io/libwallaby/setting-up-a-external-ide.html)
+- [wombat-cross](https://github.com/PRIArobotics/wombat-cross) -- Docker container with cross-compiler
 - [F-WuTS / robo4you / HTL Wr. Neustadt Github](https://github.com/orgs/F-WuTS)
