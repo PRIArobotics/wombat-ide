@@ -27,4 +27,5 @@ This repo should serve as a space where tools and instructions for comfortable d
   - [Increasing Robot Accuracy](https://toberocat.github.io/libwallaby/increasing-robot-accuracy.html)
   - [Setting up a external IDE](https://toberocat.github.io/libwallaby/setting-up-a-external-ide.html)
 - [wombat-cross](https://github.com/PRIArobotics/wombat-cross) -- Docker container with cross-compiler
+- [Eden-BHS-817](https://github.com/bhsaztecs/Eden-BHS-817): "an abstraction library that interfaces with KIPR's wombat" -- may be a nice inspiration
 - [F-WuTS / robo4you / HTL Wr. Neustadt Github](https://github.com/orgs/F-WuTS)
