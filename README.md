@@ -1,6 +1,6 @@
 # Wombat IDE tooling
 
-This repo should serve as a space where tools and instructions for comfortable development of the Wombat Botball controller. Some ideas:
+This repo should serve as a space where tools and instructions for comfortable development of the Wombat Botball controller can be added. Some ideas:
 
 - add links to useful resources, such as firmware, schematics, specifications
 - write documentation for common issues, such as connecting via SSH, working with VS Code or git, or common code snippets
